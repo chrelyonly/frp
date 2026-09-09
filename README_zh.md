@@ -2,7 +2,6 @@
 
 [![Build Status](https://circleci.com/gh/fatedier/frp.svg?style=shield)](https://circleci.com/gh/fatedier/frp)
 [![GitHub release](https://img.shields.io/github/tag/fatedier/frp.svg?label=release)](https://github.com/fatedier/frp/releases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/fatedier/frp)](https://goreportcard.com/report/github.com/fatedier/frp)
 [![GitHub Releases Stats](https://img.shields.io/github/downloads/fatedier/frp/total.svg?logo=github)](https://somsubhra.github.io/github-release-stats/?username=fatedier&repository=frp)
 
 [README](README.md) | [中文文档](README_zh.md)
@@ -15,15 +14,17 @@ frp 是一个完全开源的项目，我们的开发工作完全依靠赞助者�
 
 <h3 align="center">Gold Sponsors</h3>
 <!--gold sponsors start-->
-<div align="center">
-
-## Recall.ai - API for meeting recordings
-
-If you're looking for a meeting recording API, consider checking out [Recall.ai](https://www.recall.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=fatedier-frp),
-
-an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and more.
-
-</div>
+<p align="center">
+  <a href="https://www.rapidproxy.io/?ref=frp" target="_blank">
+    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_rapidproxy.png">
+    <br>
+    <b>High-performance residential and ISP proxies for developers</b>
+  </a>
+  <br>
+  <sub>90M+ residential IPs worldwide. Rotating IPs, sticky sessions, and traffic that never expires.</sub>
+  <br>
+  <sub>From $0.55/GB. Use RAPID10 for 10% off. Try it for free.</sub>
+</p>
 
 <p align="center">
   <a href="https://jb.gg/frp" target="_blank">
@@ -42,6 +43,17 @@ an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and 
 	<sub>An open source, self-hosted alternative to public clouds, built for data ownership and privacy</sub>
   </a>
 </p>
+
+<div align="center">
+
+## Recall.ai - API for meeting recordings
+
+If you're looking for a meeting recording API, consider checking out [Recall.ai](https://www.recall.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=fatedier-frp),
+
+an API that records Zoom, Google Meet, Microsoft Teams, in-person meetings, and more.
+
+</div>
+
 <!--gold sponsors end-->
 
 ## 为什么使用 frp ？
